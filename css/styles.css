@@ -856,6 +856,7 @@ header.masthead {
   background-position: center center;
   background-attachment: scroll;
   background-size: cover;
+    margin-top: 56px;
 }
 header.masthead .masthead-content {
   z-index: 1;
@@ -877,3 +878,20 @@ header.masthead .masthead-content .masthead-heading {
 
 
 
+/* Custom Css */
+.cmt {
+  margin-top: 100px;
+}
+
+.bg-gradient-custom {
+  background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 50%, #ff7e5f 100%);
+  background-size: 200% 200%;
+  animation: gradientAnimation 5s ease infinite;
+  color: white;
+}
+
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
