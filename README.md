@@ -37,8 +37,10 @@ Je m'inspire de principes de design modernes pour offrir une expérience utilisa
 
 📸 Aperçu
 
+![Capture d’écran 2024-11-26 135041](https://github.com/user-attachments/assets/dfdca12d-1171-4416-b688-14f5e153be6a)
 
-(Ajoutez une capture d'écran ou un GIF montrant votre site en action)
+
+
 
 🌐 [Accéder au portfolio] =====> (https://kevin-lavier.github.io/OC-Portfolio-Projet-8/)
 
